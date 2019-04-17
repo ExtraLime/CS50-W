@@ -1,0 +1,16 @@
+h1 {color: lime; text-align: center;}
+p {text-align: center;}
+div {color:lightyellow;text-align: center;}
+div1 {background-width: 400; width: 400}
+h5 {color:grey}
+p1 {color: green;text-align: center;text-decoration-color: lime;font-size: 16;font-style: oblique;}
+p2 {color: green;text-align: center;text-decoration-color: lime;font-size: 16;font-style: oblique;}
+table {border:2px solid black;border-collapse: collapse;}
+th, td {border:1px solid black;padding:5px;text-align: center;}
+th {background-color: tan}
+#projects {background-color: lightyellow;text-align: left;font-weight: bolder;}
+#nav {background-color: lightgrey;text-align:center,text:lightyellow}
+.project {color:darkgreen;font-size:22px;text-align: left;}
+.desc {color:darkblue;text-align: left;font:12px sans-serif;}
+h4 {font-weight: bolder;}
+p4 {font:12px sans-serif}

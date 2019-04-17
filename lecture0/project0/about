@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Will Morgan, Data Scientist</title>
+    </head>
+    <body>
+      <h1>Welcome to my page!</h1>
+      <h2>Below you will find a list of links to some Data Science projects that I have worked on:</h2>
+      <ul>
+        <li>"Math Lecture" an NLP model that classifies different lectures by their respective subjects.<li>
+        <li>"Scraping Youtube Subtitles" A scraper that will allow you to scrape all of the Youtube subtitles you wish!<li>
+        <li>"WaveGAN" Using a GAN to synthesize audio<li>
+      <ul>
+        <h4>This is a webpage that was created for CS50W. It is meant to develop
+        skills for web programming with python.<h4>
+    </body>
+</html>

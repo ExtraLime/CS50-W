@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Will Morgan, Data Scientist</title>
+        <link rel="stylesheet" href="home.css">
+    </head>
+    <body>
+      <h1>Welcome to Will Morgan's page!</h1>
+      <p>What would you like to know?</p>
+          <div>
+            Home   About   Projects   Contact
+          </div>
+      <p> Thanks for checking out my page! This is just a tester page to get
+        some ideas for my real website, take a look around by clicking on the
+         links above!
+       </p>
+
+        <h5>This is a webpage that was created for CS50W. It is meant to develop
+        skills for web programming with python.</h5>
+    </body>
+</html>
